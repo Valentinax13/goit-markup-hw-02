@@ -1,4 +1,4 @@
-body {
+.body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #ffffff;
@@ -6,7 +6,6 @@ body {
 .mainlogo {
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -86,7 +85,7 @@ color: #404bbf;
         color: #434455;
 }
 .adress-link:hover,
-.adress-link:active{
+.adress-link:focus {
     color: #404bbf;
 }
 .portfolio {
@@ -96,7 +95,6 @@ color: #404bbf;
     line-height: 1.11;
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
