@@ -71,9 +71,8 @@ background-color: #2E2F42;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
-.link:hover,
-.link:active,
-.link:focus {
+.linkone:hover,
+.linkone:focus {
 color: #404bbf;
  }
 }
@@ -112,4 +111,7 @@ color: #404bbf;
 }
 .footer-text {
     color: #F4F4FD;
+}
+.workers {
+    background-color: #FFFFFF;
 }
